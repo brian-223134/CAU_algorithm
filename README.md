@@ -1,4 +1,4 @@
-# 개발 환경
-## vscode + wsl2 (ubuntu kernel)
-
-## make file 구성
+## 개발환경
+- VSCode + WSL2 (Ubuntu)
+ 
+# make file 구성
